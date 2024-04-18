@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup environment variable
+
+Create a `.env` file in the root directory of the project and add the following environment variables:
+
+```
+REACT_APP_CHATSONIC_API_KEY="YourChatsonicApiKeyValue"
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
