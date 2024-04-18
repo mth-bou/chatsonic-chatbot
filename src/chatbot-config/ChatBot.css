@@ -1,0 +1,13 @@
+.Chatbot-container{
+    box-shadow: 0px 2px 5px 5px grey;
+    border-radius: 5px;
+}
+.react-chatbot-kit-chat-input{
+    outline: none;
+    background-color: #f2f2f2;
+    transition: all 0.2s ease-in-out;
+}
+.react-chatbot-kit-chat-input:focus{
+    background-color: white;
+
+}
